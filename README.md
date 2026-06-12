@@ -5,19 +5,11 @@
 
 🚀 Passionate about building real-world applications and continuously learning new technologies.
 
-## 👨‍💻 Skills: python,flask ,Html,css,js,sqlite,git & github
+# skills : python,flask,Html,css,js,sqlite, git & github,DSA 
 
-## 📌 Projects
-### Smart Cafe Management System
+📌projects: smart cafe management 
 
-## 🌱 Currently Learning
-- Full-Stack Development
-- Data Structures & Algorithms
-
-## 🎯 Career Goal
-To become a skilled Software Engineer and contribute to impactful technology solutions.
-
-## 📫 Connect With Me
-- Email: saddalaganesh677@gmail.com
-
-⭐ Always eager to learn,build, grow as a developer.
+🎯career goal: To become a skilled software engineer and contribute to imapctful technology solutions. 
+# connect with me :
+- Email : saddalaganesh677@gmail.com
+⭐ Always eager to learn,build & grow
